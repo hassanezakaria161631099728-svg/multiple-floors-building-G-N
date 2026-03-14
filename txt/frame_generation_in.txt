@@ -1,0 +1,43 @@
+
+tall building
+
+q  -700
+
+nspan  3
+
+Lspan  7
+
+nstories  8
+
+hstory  3
+
+E 2.1e8
+
+Acol  131.4e-4
+
+Icol 19270e-8
+
+Abeam 84.5e-4
+
+Ibeam  23130e-8
+
+bracing frame
+
+h  4
+
+n  4
+
+L  4.5
+
+Aver  10.323e-4
+
+Iver  15.919e-8
+
+Ahor  84.5e-4
+
+Ihor  1317.8e-8
+
+Adiag  12.3e-4
+
+Idiag  114.6e-8
+

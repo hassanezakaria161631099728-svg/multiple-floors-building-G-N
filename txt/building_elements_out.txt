@@ -1,0 +1,31 @@
+-----------------
+stairs 
+-----------------
+height_stairs cm 153
+
+Number of stairs 9
+
+stair length cm 225
+
+Comfort rule validated
+-----------------
+reinforced concrete column  
+-----------------
+Smaj 14.553
+
+NG KN 1192.939
+
+NQ KN 181.913
+
+Nu KN 1.883
+
+alpha 0.708
+
+gamma c concrete factor 1.500
+
+gamma s steel factor  1.150
+
+Br min  m2 0.121
+
+a min  m 0.368
+

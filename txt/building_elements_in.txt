@@ -1,0 +1,28 @@
+Stairs
+
+height_floor  3.06
+
+vertical_step 18
+
+horizontal_step 25
+
+Column
+
+S 13.23
+
+G1 665 // dead load for all floors including ground floor
+
+G2 802 // dead load of rooftop
+
+n_floors 10 // we consider all floors including ground floor
+
+fc28 25
+
+fe 400
+
+Q_rooftop 100
+
+Q_curent_floor 150
+
+Q_ground_floor 250
+
